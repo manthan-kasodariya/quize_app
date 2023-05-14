@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "673451794978",
+    "project_id": "dumy-fa76e",
+    "storage_bucket": "dumy-fa76e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673451794978:android:ca9f9e28a9990707f5607b",
+        "android_client_info": {
+          "package_name": "com.example.dumy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673451794978-jrjg71bh88gj90jk593j42ko1nj898k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7fENvKOwcFwzJcwVM7595IYw9lPPrsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673451794978-jrjg71bh88gj90jk593j42ko1nj898k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673451794978:android:f099385caf14cd9cf5607b",
+        "android_client_info": {
+          "package_name": "com.example.quize_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673451794978-jrjg71bh88gj90jk593j42ko1nj898k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7fENvKOwcFwzJcwVM7595IYw9lPPrsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673451794978-jrjg71bh88gj90jk593j42ko1nj898k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
